@@ -1,0 +1,36 @@
+{
+  "name": "rsqrt",
+  "version": "0.0.0",
+  "description": "Quake style 1.0/sqrt.  DO NOT USE",
+  "main": "rsqrt.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "almost-equal": "~0.0.0"
+  },
+  "devDependencies": {
+    "tap": "~0.4.1"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/rsqrt.git"
+  },
+  "keywords": [
+    "sqrt",
+    "reciprocal",
+    "quake",
+    "fast",
+    "inverse",
+    "square",
+    "root",
+    "rsqrt"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "0c33cf4a2952129231934999ba0de005f03a7196"
+}
